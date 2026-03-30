@@ -318,13 +318,9 @@ export default {
   fetch(request: Request, env: Env, ctx: ExecutionContext) {
     const url = new URL(request.url);
 
-    if (url.pathname === "/sse" || url.pathname === "/sse/message") {
-      return PsychologicalProfilingToolkit.serveSSE("/sse").fetch(request, env, ctx);
-    }
-
     if (url.pathname === "/mcp") {
-      return PsychologicalProfilingToolkit.serve("/mcp").fetch(request, env, ctx);
-    }
+  return PsychologicalProfilingToolkit.serve("/mcp").fetch(request, env, ctx);
+}
     if (url.pathname === "/") {
       return new Response(
         JSON.stringify({
