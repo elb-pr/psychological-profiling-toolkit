@@ -1,4 +1,4 @@
-# Research Foundation — Psychological Profiling Toolkit
+# Research Foundation — Pigeon Superstition Superposition
 
 ## Architecture
 Every skill file is supported by exactly **5 sources**, each occupying a defined slot:
