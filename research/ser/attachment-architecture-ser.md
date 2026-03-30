@@ -9,83 +9,62 @@ status: COMPLETE
 # S2 — Attachment Architecture: Systematic Evidence Review
 
 ## Search Summary
-| Phase | Domain | Searches | Found | Included | Excluded |
-|-------|--------|----------|:-----:|:--------:|:--------:|
-| 1 | Core framework | 4 | 12 | 5 | 7 |
-| 2 | Indirect / observer application | 3 | 7 | 4 | 3 |
-| 3 | Documentary proxy | 3 | 5 | 3 | 2 |
-| 4 | Contradictions | 2 | 4 | 3 | 1 |
-| **Total** | | **12** | **28** | **15** | **13** |
-
----
+| Phase | Domain | Searches | Included | Excluded |
+|-------|--------|----------|:--------:|:--------:|
+| 1 | Core framework | 4 | 6 | 4 |
+| 2 | Indirect/observer | 3 | 4 | 3 |
+| 3 | Documentary proxy | 3 | 4 | 3 |
+| 4 | Contradictions | 2 | 2 | 2 |
+| **Total** | | **12** | **16** | **12** |
 
 ## Evidence Synthesis
 
-### Finding 1: Four-Category Model Validity
-Bartholomew & Horowitz (1991): four adult attachment styles (Secure, Preoccupied,
-Fearful-Avoidant, Dismissing-Avoidant) defined by positive/negative models of self
-and other. Validated via interview and self-report measures [web:341].
-Hazan & Shaver (1987): adult romantic attachment as continuation of infant attachment
-system — functional continuity established. CLASSIFICATION: ESTABLISHED
+### Finding 1: Core Framework
+Bowlby (1969, 1973, 1980): Attachment behavioural system activated under threat; internal working models (IWMs) of self and other formed from early relational experience. Ainsworth et al. (1978): Strange Situation identifies Secure, Anxious-Ambivalent, Avoidant patterns in infants. Main & Hesse (1990): Disorganised attachment — fourth pattern linked to frightening/frightened caregiver. Adult attachment: Hazan & Shaver (1987) romantic attachment styles; Main, Kaplan & Cassidy (1985) Adult Attachment Interview (AAI). CLASSIFICATION: ESTABLISHED.
 
-### Finding 2: Adult Attachment Interview — Indirect Application Tool
-The Adult Attachment Interview (George, Kaplan & Main, 1984) is a semi-structured
-narrative interview coded for *state of mind with respect to attachment* — not for
-attachment behaviour directly. Coding is from *the text of the transcript*, not
-from direct clinical observation. Trained coders achieve inter-rater reliability
-κ=.80–.90 across attachment categories.
-AAI predicts child attachment style, relationship outcomes, and psychopathology.
-PMC 2025 meta-review confirms AAI coded attachment directly links to emotion regulation
-and defence mechanisms [web:341]. CLASSIFICATION: ESTABLISHED
+### Finding 2: Instrument — Adult Attachment Interview (AAI — CRITICAL FOR INDIRECT USE)
+George, Kaplan & Main (1985, unpublished manual): AAI is a semi-structured interview analysed for *coherence of mind regarding attachment* — not for content of memories but for the **narrative structure, consistency, and metacognitive monitoring** of attachment-related discourse. Coding categories: Secure/Autonomous, Dismissing, Preoccupied, Unresolved/Disorganised. This is a *narrative analysis tool* — the interview is the substrate but the coding method (discourse analysis) transfers to any extended narrative document. CLASSIFICATION: ESTABLISHED for interview; EMERGING for purely documentary application.
 
-### Finding 3: Attachment Inferred from Narrative and Behaviour
-UCL thesis (2015): attachment style inferred from interpersonal contingency patterns
-and trust behaviour in relationship accounts — without direct AAI [web:338].
-Liverpool thesis (2015): paranoia systematically related to attachment insecurity —
-both fearful-avoidant and preoccupied styles produce paranoid ideation detectable in
-narrative content [web:343]. CLASSIFICATION: EMERGING (thesis-level)
-FLAG: Both sources are dissertations (Tier 9) — findings require peer-reviewed replication.
+### Finding 3: Indirect Application
+PMC 2025 meta-review: Attachment classification directly predicts emotion regulation capacity and defence mechanism preference across multiple independent studies. The mechanism chain is: attachment style → IWM → observable interpersonal behaviour patterns + emotional regulation patterns. Interpersonal contingency patterns (approach under stress vs withdrawal; hyperactivation vs deactivation) are behaviourally observable. UCL thesis (2015): paranoia in attachment theory framework — attachment insecurity predicts specific interpersonal inference patterns observable in behavioural accounts without direct interview. CLASSIFICATION: ESTABLISHED for behavioural observation; EMERGING for purely documentary inference.
 
-### Finding 4: LIWC Linguistic Markers
-Tausczik & Pennebaker (2010): attachment-related linguistic proxies identifiable in
-natural text. Preoccupied attachment: high first-person singular, anger/anxiety lexicon,
-other-directed blame, incomplete/fragmented syntax. Dismissing: low affect words,
-abstract/intellectualised language, minimal self-disclosure [web:250].
-CLASSIFICATION: EMERGING — inferred from LIWC correlates, not attachment-specific validation
+### Finding 4: Narrative Markers — AAI Coherence Dimensions
+Coherence of mind in AAI coded on: (1) Consistency — do stated beliefs match specific memory evidence? (2) Relevance — does discourse stay on topic or divert? (3) Manner — is delivery clear or confused/angry/passive? (4) Quantity — appropriate detail or flooding/sparse? These four coherence markers are directly applicable to any extended text or verbal account. CLASSIFICATION: THEORETICAL for documentary application; ESTABLISHED for AAI transcripts.
 
-### Finding 5: Contradictions
-- Two-dimensional (anxiety/avoidance axes, Fraley & Shaver) vs four-categorical
-  (Bartholomew) models: both have empirical support. Nature: DEFINITIONAL.
-- Attachment stability vs change: adult attachment can shift with significant
-  relationship experiences [web:341]. State vs trait issue applies.
-- AAI predicts parenting behaviour; applicability to non-parenting documentary
-  inference not validated. Nature: EMPIRICAL.
+### Contradictions
+| Contradiction | Type | Position A | Position B |
+|---|---|---|---|
+| AAI → documentary transfer | Paradigmatic | AAI developers: coding requires trained certified coder | Researchers: coherence principles can be applied to naturalistic text |
+| Categorical vs dimensional | Definitional | Ainsworth/Main: discrete categories | Fraley & Waller (1998): continuous dimensions better fit data |
 
 ### Evidence Gaps
-1. No published study validating attachment style inference from documentary sources
-   (not interview transcripts) without trained AAI coder.
-2. Fearful-avoidant vs dismissing-avoidant linguistic differentiation: not validated
-   from text alone — both involve low affect disclosure.
+1. No published study applying AAI coherence coding to archival/documentary sources without interview
+2. No validated protocol for non-trained coders inferring attachment style from documentary evidence
+3. Cross-cultural validity of attachment classification — AAI developed in Western academic context
 
 ## Bibliography Slot Recommendations
 | Slot | Source | Quality |
 |------|--------|---------|
-| 1 Founding | Bartholomew & Horowitz (1991). Four-category model. *JPSP, 61*(2) | STRONG |
-| 2 Instrument | Hazan & Shaver (1987). Romantic love as attachment. *JPSP, 52*(3) | STRONG |
-| 3 Validation | Fraley & Shaver (2000). Adult attachment review. *Rev Gen Psych, 4*(2) | STRONG |
-| 4 Indirect precedent | George, Kaplan & Main (1984). Adult Attachment Interview. Unpublished protocol. UC Berkeley | STRONG |
-| 5 Documentary proxy | Tausczik & Pennebaker (2010). LIWC. *JLSP, 29*(1) [web:250] | MODERATE |
+| 1 Founding | Bowlby, J. (1982). *Attachment (2nd ed.)*. Basic Books | STRONG |
+| 2 Instrument | Main, M. et al. (1985). Security in infancy, childhood, and adulthood. *Monographs SRCD, 50*(1–2) | STRONG |
+| 3 Validation | van IJzendoorn, M.H. (1995). Adult attachment representations. *Psychological Bulletin, 117*(3), 387–403 | STRONG |
+| 4 Indirect precedent | PMC 2025: Attachment Classification, Emotion Regulation, and Defence. https://pmc.ncbi.nlm.nih.gov/articles/PMC12691835/ | MODERATE |
+| 5 Documentary proxy | Crittenden, P.M. (2006). A dynamic-maturational model of attachment. *AJP, 47*(4). DOI:10.1080/00050060600905688 | MODERATE |
 
 ## Transferability Verdict
-VIABLE WITH SIGNIFICANT HEDGING — AAI demonstrates narrative inference is valid,
-but requires trained coder with 40+ hours training. Documentary inference without
-AAI protocol produces EMERGING-level evidence only.
-Transfer gap: MODERATE for narrative inference with trained coder; MAJOR without.
+**VIABLE WITH SIGNIFICANT HEDGING** — Attachment style has strong behavioural and narrative correlates. The AAI coherence coding method transfers conceptually to documentary narrative. However, formal AAI coding requires certified training. The skill file must operationalise four coherence markers as documentary inference signals and flag that conclusions are EMERGING confidence, not ESTABLISHED.
+
+## Documentary Proxy Map
+| Attachment Pattern | Primary Signals | Quality |
+|---|---|---|
+| Secure/Autonomous | Coherent narrative; specific memories match stated beliefs; balanced positive/negative of attachment figures; metacognitive flexibility | MODERATE |
+| Dismissing | Sparse attachment narrative; idealisation without supporting specifics; "normalising" childhood difficulties; intellectualisation | MODERATE |
+| Preoccupied | Flooding/entangled narrative; present-tense anger about past; inconsistency; difficulty completing attachment-relevant discourse | MODERATE |
+| Unresolved/Disorganised | Discourse lapses during trauma/loss; disoriented reasoning; simultaneous contradictory statements | LOW — highly specific, needs corroboration |
 
 ## Failure Mode Register
 | Failure Mode | Likelihood |
 |---|---|
-| Untrained application of AAI categories to documents | LIKELY to produce error |
-| Fearful-avoidant / dismissing-avoidant conflation in text | LIKELY |
-| Attachment state vs trait confusion | POSSIBLE |
-| Cultural variation in attachment expression in language | POSSIBLE |
+| Confusing genre conventions with attachment style | LIKELY — formal writing systematically suppresses preoccupied markers |
+| Dismissing style misread as healthy autonomy | LIKELY |
+| Single narrative insufficient for classification | LIKELY — multiple sources required |

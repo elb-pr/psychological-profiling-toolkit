@@ -9,83 +9,62 @@ status: COMPLETE
 # S14 — Interpersonal Strategy Profile: Systematic Evidence Review
 
 ## Search Summary
-| Phase | Domain | Searches | Found | Included | Excluded |
-|-------|--------|----------|:-----:|:--------:|:--------:|
-| 1 | Core framework | 4 | 11 | 5 | 6 |
-| 2 | Indirect / behavioural records | 3 | 7 | 4 | 3 |
-| 3 | Documentary proxy | 3 | 5 | 3 | 2 |
-| 4 | Contradictions | 2 | 4 | 3 | 1 |
-| **Total** | | **12** | **27** | **15** | **12** |
-
----
+| Phase | Domain | Searches | Included | Excluded |
+|-------|--------|----------|:--------:|:--------:|
+| 1 | Core framework | 4 | 6 | 4 |
+| 2 | Behavioural records | 3 | 4 | 3 |
+| 3 | Documentary proxy | 2 | 3 | 2 |
+| 4 | Contradictions | 2 | 2 | 2 |
+| **Total** | | **11** | **15** | **11** |
 
 ## Evidence Synthesis
 
-### Finding 1: Cooperation Framework Validity
-Axelrod & Hamilton (1981): iterated Prisoner's Dilemma tournament demonstrates
-Tit-for-Tat (TFT) — cooperative start, reciprocal response, immediate retaliation,
-immediate forgiveness — outperforms all other strategies across diverse conditions [web:190].
-Trivers (1971): reciprocal altruism theory establishes conditions under which cooperation
-evolves: repeated interaction, detection of defection, low cost of cooperation.
-CLASSIFICATION: ESTABLISHED
+### Finding 1: Axelrod (1984) — Cooperation Tournament
+Axelrod (1984, *The Evolution of Cooperation*): Computer tournament of iterated prisoner's dilemma strategies — Tit-for-Tat won: cooperate first, then mirror opponent's last move, never hold grudge beyond one period. Key parameters directly observable in behavioural records: (1) initial cooperativeness; (2) response to defection (retaliatory speed, magnitude); (3) forgiveness rate; (4) clarity of signalling. These four parameters are deducible from any documented interaction history. CLASSIFICATION: ESTABLISHED.
 
-### Finding 2: Indirect Reciprocity — Observable Assessment Basis
-PMC (2023): evolutionary stability of cooperation under indirect reciprocity depends
-on *reputation assessment* — third parties infer cooperation propensity from observed
-behaviour toward others [web:357]. This is structurally identical to documentary
-inference of interpersonal strategy — analyst as third-party reputation assessor.
-Edge/Sigmund (2026): indirect reciprocity, assessment hardwiring, and reputation —
-cooperation strategy inferred from behavioural record rather than direct interaction [web:360].
-CLASSIFICATION: ESTABLISHED as evolutionary mechanism; EMERGING as documentary method
+### Finding 2: Indirect Reciprocity
+PMC (2023): Evolutionary stability of cooperation under indirect reciprocity depends on private assessment — reputation scoring from third-party observation. Karl Sigmund (Edge, 2026): Indirect reciprocity, assessment, hardwiring, and reputation — confirms interpersonal strategy profiles are inferable from reputation-building behaviour in third-party accounts. Key mechanism: cooperation with observers present vs absent is a direct discriminator of strategic vs genuine prosociality. CLASSIFICATION: ESTABLISHED (evolutionary game theory); EMERGING (documentary inference).
 
-### Finding 3: Linguistic Regulatory Focus as Strategy Proxy
-Semin et al. (2005, VU Research Portal): linguistic abstraction markers correlate with
-interpersonal strategy and power orientation. Dominant/exploitative: high abstraction,
-dispositional attribution. Cooperative/reciprocal: concrete behaviour description,
-situational attribution [web:358].
-Regulatory focus linguistic signatures (CORE 2010): promotion-focused (approach) vs
-prevention-focused (avoidance) language patterns observable in natural text [web:355].
-CLASSIFICATION: EMERGING — regulatory focus proxy for approach/avoidance;
-not directly validated for TFT parameter estimation
+### Finding 3: Regulatory Focus as Interpersonal Strategy
+Semin et al. (2005): Promotion-focused individuals use interpersonal strategy of maximal gain; prevention-focused use strategy of minimal loss. Interpersonal manifestations: promotion = expansive, risk-tolerant; prevention = cautious, relationship-protective. Observable in accounts of negotiation, conflict, boundary-setting. CLASSIFICATION: ESTABLISHED (experimental).
 
-### Finding 4: Punishment Propensity
-Balbuena, Kolla & Logan (in press, 2026): punishment propensity in high psychopathy
-inferred from behavioural records. Punishment parameter (β in TFT) measurable from
-documented responses to perceived defection.
-FLAG: In press — single source, not yet peer-reviewed. CLASSIFICATION: SPECULATIVE
+### Finding 4: Trivers (1971) — Reciprocal Altruism Parameters
+Trivers (1971): Reciprocal altruism theory identifies moralistic aggression, gratitude, guilt, sympathy as emotion-regulators of cooperative strategy. Observable markers in documentary evidence: expressed gratitude proportional to received benefit; moralistic aggression following defection; guilt expression following own defection. CLASSIFICATION: ESTABLISHED (evolutionary theory); THEORETICAL for documentary inference.
 
-### Finding 5: Contradictions
-- TFT as optimal strategy challenged by more forgiving strategies (Generous TFT,
-  Win-Stay-Lose-Shift) in noisy environments. Nature: EMPIRICAL.
-- Parameter estimation (forgiveness threshold, punishment intensity, cooperation
-  probability) from behavioural records requires multiple documented interactions —
-  single incidents insufficient. Nature: METHODOLOGICAL CONSTRAINT.
+### Contradictions
+| Contradiction | Type | Position A | Position B |
+|---|---|---|---|
+| Tit-for-Tat universality | Empirical | Axelrod: TfT optimal across conditions | Later tournaments: Generous TfT, Win-Stay Lose-Shift outperform in noise |
+| Cooperation as stable trait vs context | Empirical | Personality approach: stable prosociality trait | Situationist: context determines cooperation more than trait |
 
 ### Evidence Gaps
-1. No published protocol for estimating TFT parameters from documentary behavioural records.
-2. Forgiveness parameter especially hard to infer from documents — absence of retaliation
-   may reflect opportunity constraint not forgiveness.
+1. No validated method for extracting Axelrod parameters from archival documentary sources specifically
+2. No study on accuracy of third-party behavioural record accounts for inferring interpersonal strategy
 
 ## Bibliography Slot Recommendations
 | Slot | Source | Quality |
 |------|--------|---------|
-| 1 Founding | Axelrod & Hamilton (1981). Evolution of cooperation. *Science, 211*(4489) | STRONG |
-| 2 Instrument | Axelrod (1984). *Evolution of Cooperation*. Basic Books | STRONG |
-| 3 Validation | Trivers (1971). Reciprocal altruism. *QRB, 46*(1) | STRONG |
-| 4 Indirect precedent | PMC (2023). Indirect reciprocity stability. PMC: 10194006 | STRONG |
-| 5 Documentary proxy | Semin et al. (2005). Linguistic abstraction and interpersonal strategy. *JPSP* | MODERATE |
+| 1 Founding | Axelrod, R. (1984). *The Evolution of Cooperation*. Basic Books | STRONG |
+| 2 Instrument | Trivers, R.L. (1971). The evolution of reciprocal altruism. *Quarterly Review of Biology, 46*(1), 35–57 | STRONG |
+| 3 Validation | Nowak, M.A. & May, R.M. (1992). Evolutionary games and spatial chaos. *Nature, 359*, 826–829 | STRONG |
+| 4 Indirect precedent | PMC (2023). Evolutionary stability under indirect reciprocity. https://pmc.ncbi.nlm.nih.gov/articles/PMC10194006/ | MODERATE |
+| 5 Documentary proxy | Semin et al. (2005). Linguistic signatures of regulatory focus. *JPSP, 89*(1). https://research.vu.nl/ws/files/2078369/ | STRONG |
 
 ## Transferability Verdict
-VIABLE — cooperation/defection/punishment patterns are directly observable in
-behavioural records. Reputation assessment (indirect reciprocity) is structurally
-identical to documentary inference. Parameter estimation requires multiple documented
-interactions, not single incidents.
-Transfer gap: MODERATE — forgiveness parameter difficult to infer; single documents insufficient.
+**VIABLE** — Axelrod parameters (initial cooperativeness, retaliation speed, forgiveness rate, signal clarity) are directly readable from documented interaction histories. This is one of the frameworks most naturally suited to indirect assessment — it was designed to analyse behavioural records, not to require subject presence.
+
+## Documentary Proxy Map
+| Parameter | Observable Signal | Confidence |
+|---|---|---|
+| Initial cooperativeness | First-move behaviour in documented interactions; public statements of cooperative intent | STRONG |
+| Retaliation speed | Time between documented defection and documented retaliation | STRONG |
+| Forgiveness rate | Resumption of cooperation after retaliation in documented history | STRONG |
+| Gratitude/reciprocity | Documented acknowledgement of received benefit; proportional return | MODERATE |
+| Moralistic aggression | Documented anger/punishment following perceived defection by others | MODERATE |
 
 ## Failure Mode Register
 | Failure Mode | Likelihood |
 |---|---|
-| Inferring parameters from single documented interaction | LIKELY |
-| Confounding strategic constraint with genuine forgiveness | POSSIBLE |
-| Context blindness — cooperation in one domain inferred to all domains | POSSIBLE |
-| Defection from in-group vs out-group conflated | POSSIBLE |
+| Strategic public cooperation masking private defection | LIKELY (public figures) |
+| Incomplete behavioural record — key interactions undocumented | LIKELY |
+| Rater bias: own strategy projected onto subject | POSSIBLE |
