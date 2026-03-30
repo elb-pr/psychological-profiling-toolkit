@@ -16,6 +16,5 @@
     "@cloudflare/workers-types": "^4.0.0",
     "typescript": "^5.5.0",
     "wrangler": "^4.0.0"
-  },
-  "description": "16-framework Cognitive Surrogate Profile construction system \u2014 indirect psychological profiling from documentary evidence"
+  }
 }
